@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:06.747521
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:59
 #+TITLE: 王梵志詩集
 #+PROPERTY: CBETA_ID T85n2863
 #+PROPERTY: ID KR6s0055
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2863
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0055_T_000-1323a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0055_T_001-1323a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2863¶
-
- 王梵志詩集　　前序□□□□上¶
+No. 2863¶
+王梵志詩集　　前序□□□□上¶
 ¶
 
 但以佛教道法無我苦空。知先薄之福緣。悉¶
@@ -30,7 +29,7 @@ No.2863¶
 絹筐悉皆咸臻。知罪福懃耕懇苦足口糧。一¶
 志五情不改易。東州西郡並稱揚。但令讀此
 <pb:KR6s0055_T_001-1323b>¶
-篇章熟。頑愚暗憃悉賢良。¶
+篇章熟。頑愚暗惷悉賢良。¶
 
 遙看世間人。村坊安社邑。一家有死生。合村¶
 相就泣。張口哭他屍。不知身去急。本是長眠¶
